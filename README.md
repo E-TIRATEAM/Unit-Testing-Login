@@ -22,19 +22,19 @@
 
 <img src="https://user-images.githubusercontent.com/76760289/144577338-6e9abd95-6f8a-4fc6-9a93-714b1395b283.png">
 
-<h3>Langkah 4. Jika instalasi berhasil, maka akan muncul struktur direktori baru dalam folder unit-test-login</h3>
+<h3>4. Jika instalasi berhasilmuncul struktur direktori baru dalam folder unit-test</h3>
 
 <img src="https://user-images.githubusercontent.com/76760289/144577507-3a1c7ec0-4e84-465b-81db-d0451495bf79.png">
 
-<h3>Langkah 5. Membuat file login.php</h3>
+<h3>5. Membuat file login.php</h3>
 
 <img src="https://user-images.githubusercontent.com/76760289/144577917-fb5a5b53-7218-43fc-bfd7-5af8d6ff378a.png">
 
-<h3>Langkah 6. Membuat file test.php untuk menjalankan proses testing</h3>
+<h3>6. Membuat file test.php untuk menjalankan proses testing</h3>
 
 <img src="https://user-images.githubusercontent.com/76760289/144578022-ab346dfb-9927-4958-b717-64d64da3b7ca.png">
 
-<h3>Langkah 7 - Hasil unit testing login otomatis</h3>
+<h3>7. Hasil unit testing login otomatis</h3>
 
 <img src="https://user-images.githubusercontent.com/76760289/144578075-dafa649b-4e19-46d2-8b6f-adc2846f306a.png">
 
