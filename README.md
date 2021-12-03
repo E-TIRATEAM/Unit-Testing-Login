@@ -40,15 +40,12 @@
 
 <img src="https://user-images.githubusercontent.com/76760289/144578075-dafa649b-4e19-46d2-8b6f-adc2846f306a.png">
 
-<hr>
 <h3>
 	<a href="#Kembali"> Kembali</a>
 </h3>
-	
+<hr>
+<h2># J UNIT MOBILE</h2>
 <div id="JUnit">	
-<h2>
-    <a href="#JUnit"> UNIT TEST LOGIN - J'UNIT MOBILE</a>
-</h2>
 
 <p>Percobaan unit testing login otomatis menggunakan J'Unit kali ini menggunakan Android Studio </p>
 <h3>1. Untuk menguji testing login activity kita memilih Junit4</h3>
