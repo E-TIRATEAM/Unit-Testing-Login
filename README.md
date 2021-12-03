@@ -3,18 +3,18 @@
 <h1 align="center"> UNIT TEST LOGIN E-TIRA</h1>
 
 <h2>
-    <a href="#PHPUnit">☆ UNIT TEST LOGIN - PHP'UNIT</a>
+    <a href="#PHPUnit"> UNIT TEST LOGIN - PHP'UNIT</a>
 </h2>
 
 <p>Percobaan unit testing login otomatis menggunakan PHP'Unit kali ini menggunakan Google Cloud Shell </p>
 
 <h3>1 - Membuat folder unit-test di Google Cloud Shell</h3>
 
-<img src="https://user-images.githubusercontent.com/76760289/144576673-76795379-2365-4ad7-b041-bc4f080c3c40.png
+<img src="https://user-images.githubusercontent.com/76760289/144576673-76795379-2365-4ad7-b041-bc4f080c3c40.png">
 
 <h3>2 - Buka terminal, lalu masuk ke direktori unit-test kemudian instalasi PHP'Unit</h3>
 
-<img src="https://user-images.githubusercontent.com/76760289/144577010-bad4a2b5-3b37-4a0c-9e9c-63df69119cc2.png
+<img src="https://user-images.githubusercontent.com/76760289/144577010-bad4a2b5-3b37-4a0c-9e9c-63df69119cc2.png">
 
 <h3>Langkah 3 - Proses instalasi berhasil</h3>
 
