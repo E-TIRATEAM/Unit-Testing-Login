@@ -8,8 +8,8 @@
     <a href="#JUnit"> UNIT TEST LOGIN - J'UNIT MOBILE</a>
 </h2>
 <hr>
-<h2># PHP UNIT WEBSITE</h2>
 <div id="PHPUnit">
+<h2># PHP UNIT WEBSITE</h2>
 <p>Percobaan unit testing login otomatis menggunakan PHP'Unit kali ini menggunakan Google Cloud Shell </p>
 
 <h3>1. Membuat folder unit-test di Google Cloud Shell</h3>
@@ -44,8 +44,9 @@
 	<a href="#Kembali"> Kembali</a>
 </h3>
 <hr>
+<div id="JUnit">
 <h2># J UNIT MOBILE</h2>
-<div id="JUnit">	
+	
 
 <p>Percobaan unit testing login otomatis menggunakan J'Unit kali ini menggunakan Android Studio </p>
 <h3>1. Untuk menguji testing login activity kita memilih Junit4</h3>
