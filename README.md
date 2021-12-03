@@ -46,4 +46,14 @@
     <a href="#JUnit"> UNIT TEST LOGIN - J'UNIT MOBILE</a>
 </h2>
 <div id="JUnit">
-<h3>Masih dalam proses pengerjaan...</h3>
+<p>Percobaan unit testing login otomatis menggunakan J'Unit kali ini menggunakan Android Studio </p>
+<div id="PHPUnit">
+<h3>1. Membuat kode program testing JUnit</h3>
+
+<img src="https://user-images.githubusercontent.com/76760289/144630013-fcdc46d4-fe49-4805-ab2b-31179c7249fa.png">
+
+<h3>2. Testing Junit berhasil dijalankan</h3>
+
+<img src="https://user-images.githubusercontent.com/76760289/144630098-0aff1b06-69f6-4582-a964-8205e8b5cc52.png">
+
+
